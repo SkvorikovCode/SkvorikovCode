@@ -9,8 +9,8 @@ I'm a developer with a passion for creating web solutions using HTML, CSS, JavaS
 - 📫 How to reach me: [skvorikoffg@gmail.com]
 
 ## Connect with Me
-Email - [skvorikoffg@gmail.com]./n
-Website - [To be updated soon]./n
-GitHub - [SkvorikovCode]./n
-GitLin - [https://github.com/SkvorikovCode]./n
+Email - [skvorikoffg@gmail.com].
+Website - [To be updated soon].
+GitHub - [SkvorikovCode].
+GitLin - [https://github.com/SkvorikovCode].
 Telegram profile - [@JustWF].
