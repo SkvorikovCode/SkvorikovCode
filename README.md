@@ -11,4 +11,4 @@ I'm a developer with a passion for creating web solutions using HTML, CSS, JavaS
 ## Connect with Me
 Email - [skvorikoffg@gmail.com].
 GitHub - [SkvorikovCode].
-Telegram profile - [@JustWF].
+Telegram profile - [@JustFW].
