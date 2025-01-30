@@ -1,4 +1,4 @@
-# 👋 Привет, я Сквориков Денис!
+**# 👋 Привет, я Сквориков Денис!
 
 ## 🚀 Full-Stack PHP Developer
 
@@ -62,3 +62,4 @@
 
 ---
 ⭐️ From [SkvorikovCode](https://github.com/SkvorikovCode) | Updated in 2025
+**
