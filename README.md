@@ -8,8 +8,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0)](https://t.me/JustFW)
 [![Telegram Channel](https://img.shields.io/badge/dynamic/json?label=channel&query=$.subscribers&url=https://tg.i-c-a.su/channel/@JustFW_info&logo=telegram&style=social)](https://t.me/JustFW_info)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=SkvorikovCode&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SkvorikovCode&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=SkvorikovCode&show_icons=true&theme=radical" alt="GitHub Stats" />
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=SkvorikovCode&theme=radical" alt="GitHub Streak" />-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkvorikovCode&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
