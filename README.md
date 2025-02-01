@@ -4,7 +4,7 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/SkvorikovCode?style=social)](https://github.com/SkvorikovCode)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-linkedin)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-linkedin)-->
 [![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0)](https://t.me/JustFW)
 [![Telegram Channel](https://img.shields.io/badge/dynamic/json?label=channel&query=$.subscribers&url=https://tg.i-c-a.su/channel/@JustFW_info&logo=telegram&style=social)](https://t.me/JustFW_info)
 
