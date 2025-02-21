@@ -67,7 +67,7 @@
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![NocoDB](https://img.shields.io/badge/-NocoDB-4F46E5?style=flat-square&logo=nocodb&logoColor=white)
-![MSSQL](https://img.shields.io/badge/-MSSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-3ECF8E?style=flat-square&logo=mssql&logoColor=white)
 
 ## 💻 Операционные системы
 
