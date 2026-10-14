@@ -1,116 +1,108 @@
-# 👋 Привет всем!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,55:3d59a1,100:bb9af7&height=210&section=header&text=Hi,%20I'm%20Denis&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Open-source%20tools%20for%20AI%20coding%20agents&descSize=18&descAlignY=58" alt="Hi, I'm Denis" width="100%">
+</p>
 
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/SkvorikovCode?style=social)](https://github.com/SkvorikovCode)
+<p align="center">
+  <a href="https://github.com/SkvorikovCode/Octopus-AI">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Building+tools+for+AI+coding+agents;Octopus+AI+%E2%80%94+a+swarm+of+agents+in+git+worktrees;Designing+systems%2C+letting+agents+type;Open+source+%C2%B7+Rust+%C2%B7+TypeScript+%C2%B7+Python" alt="Typing SVG">
+  </a>
+</p>
 
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-linkedin)-->
-[![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0)](https://t.me/JustFW)
-[![Telegram Channel](https://img.shields.io/badge/dynamic/json?label=channel&query=$.subscribers&url=https://tg.i-c-a.su/channel/@JustFW_info&logo=telegram&style=social)](https://t.me/JustFW_info)
+<p align="center">
+  <a href="https://github.com/SkvorikovCode"><img src="https://img.shields.io/badge/English-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="English"></a>
+  <a href="https://github.com/SkvorikovCode/SkvorikovCode/blob/main/README.ru.md"><img src="https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-1a1b27?style=for-the-badge" alt="Русский"></a>
+</p>
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=SkvorikovCode&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SkvorikovCode&theme=radical" alt="GitHub Streak" />-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkvorikovCode&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SkvorikovCode&label=profile%20views&color=7aa2f7&style=flat-square" alt="Profile views">
+  <a href="https://github.com/SkvorikovCode?tab=followers"><img src="https://img.shields.io/github/followers/SkvorikovCode?style=flat-square&color=bb9af7&labelColor=1a1b27&logo=github" alt="Followers"></a>
+  <a href="https://github.com/SkvorikovCode/Octopus-AI/stargazers"><img src="https://img.shields.io/github/stars/SkvorikovCode/Octopus-AI?style=flat-square&color=ff3d2e&labelColor=1a1b27&label=Octopus%20AI%20stars&logo=github" alt="Octopus AI stars"></a>
+  <a href="https://t.me/JustFW_info"><img src="https://img.shields.io/badge/Telegram-@JustFW__info-26A5E4?style=flat-square&labelColor=1a1b27&logo=telegram&logoColor=white" alt="Telegram channel"></a>
+</p>
 
-</div>
+## 👋 About
 
-## 👨‍💻 Обо мне
-Меня зовут Denis, и я full stack-разработчик. Я увлечен созданием современных и привлекательных веб-приложений, используя самые популярные языки и библиотеки.
+Full-stack developer building **tools for AI coding agents** and shipping them as open source.
 
-## 🛠 Мой технологический стек
+These days most of my code is written together with agents: I design the system, run several agents in parallel, review the diffs and keep the architecture honest. What I build mostly grows out of that workflow — desktop apps for agents, LLM pipelines, Telegram bots and automation around generative models.
 
-### 🎨 Фронтенд
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+```ts
+const denis = {
+  building: ["Octopus AI", "LLM pipelines", "Telegram bots"],
+  workflow: "design → run agents in parallel → review the diff → ship",
+  stack: ["TypeScript", "Rust", "Python", "Go"],
+  openTo: ["open-source collabs", "issues", "PRs", "ideas"],
+};
+```
 
-### ⚙️ Бэкенд
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+## 🐙 Featured
 
-### 💾 Базы данных
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![NocoDB](https://img.shields.io/badge/-NocoDB-4F46E5?style=flat-square&logo=nocodb&logoColor=white)
-![MSSQL](https://img.shields.io/badge/-MSSQL-3ECF8E?style=flat-square&logo=mssql&logoColor=white)
+<a href="https://github.com/SkvorikovCode/Octopus-AI">
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SkvorikovCode&repo=Octopus-AI&theme=tokyonight&hide_border=true&border_radius=10" alt="Octopus AI">
+</a>
 
-## 💻 Операционные системы
+**[Octopus AI](https://github.com/SkvorikovCode/Octopus-AI)** · [website](https://skvorikovcode.github.io/Octopus-AI/)
 
-### 🐧 Linux
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+A desktop app for coding agents: run one agent or a whole swarm in parallel, each in its own git worktree, review human-readable permission cards and a clean diff instead of a wall of logs. Bring your own keys — they stay in the OS keychain, your code stays on your machine.
 
-### 🪟 Windows
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+`Tauri 2` · `Rust` · `React` · `TypeScript` · Apache-2.0 · PRs welcome
 
-### 🍎 Mac OS
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+<br clear="right">
 
-## 🔧 Инструменты разработки
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### More open source
 
-### ☁️ Облачные сервисы
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+| Project | What it is |
+| --- | --- |
+| [wan2gp-telegram-notify](https://github.com/SkvorikovCode/wan2gp-telegram-notify) | Telegram notifications and two-way control bot for [Wan2GP](https://github.com/deepbeepmeep/Wan2GP) AI video generation |
+| [Torexxx-Code-Agent](https://github.com/SkvorikovCode/Torexxx-Code-Agent) | CLI agent that normalizes a prompt and generates a project via OpenRouter: model pools, fallbacks, YAML templates picked by the model |
+| [Youtube-Shorts-Generator-AI](https://github.com/SkvorikovCode/Youtube-Shorts-Generator-AI) | Turns long YouTube videos into vertical Shorts: transcription, AI pick of the best moments, face-aware cropping |
+| [start-coding-hub](https://github.com/SkvorikovCode/start-coding-hub) | Open collection of full-stack learning courses (RU) |
 
----
+## 🛠 Stack
 
-> Каждая из этих технологий имеет свои особенности и преимущества, и я стремлюсь использовать их для создания лучшего пользовательского опыта.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,rust,py,go,swift,react,nextjs,tauri,vite&perline=9" alt="Languages and frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,fastapi,postgres,sqlite,supabase,docker,githubactions,linux&perline=9" alt="Backend and infra">
+</p>
 
-<div align="center">
-  
-### 📫 Связаться со мной
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skvorikoffg@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JustFW)
-[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JustFW_info)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkvorikovCode)
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logo=openrouter&logoColor=white" alt="OpenRouter">
+  <img src="https://img.shields.io/badge/MCP-1a1b27?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+</p>
 
-</div>
+## 📊 GitHub at a glance
 
-💡 Буду рад поделиться с Вами полезной информацией, опытом и советами по разработке!
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkvorikovCode&theme=tokyonight" alt="Profile details" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SkvorikovCode&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" height="170">
+  <img src="https://streak-stats.demolab.com?user=SkvorikovCode&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkvorikovCode&theme=tokyonight" alt="Top languages by repo" width="400">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SkvorikovCode&theme=tokyonight" alt="Top languages by commit" width="400">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkvorikovCode/SkvorikovCode/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/SkvorikovCode/SkvorikovCode/output/snake-light.svg" alt="Contribution snake">
+  </picture>
+</p>
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://t.me/JustFW"><img src="https://img.shields.io/badge/Telegram-@JustFW-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/JustFW_info"><img src="https://img.shields.io/badge/Channel-@JustFW__info-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram channel"></a>
+  <a href="mailto:skvorikoffg@gmail.com"><img src="https://img.shields.io/badge/Email-skvorikoffg@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center"><i>Open to collaboration on open-source AI tooling — issues, PRs and ideas are welcome.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,45:3d59a1,100:1a1b27&height=110&section=footer" alt="" width="100%">
