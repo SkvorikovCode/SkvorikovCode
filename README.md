@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SkvorikovCode&label=profile%20views&color=7aa2f7&style=flat-square" alt="Profile views">
+  <img src="https://hits.sh/github.com/SkvorikovCode.svg?style=flat-square&label=profile%20views&color=7aa2f7&labelColor=1a1b27" alt="Profile views">
   <a href="https://github.com/SkvorikovCode?tab=followers"><img src="https://img.shields.io/github/followers/SkvorikovCode?style=flat-square&color=bb9af7&labelColor=1a1b27&logo=github" alt="Followers"></a>
   <a href="https://github.com/SkvorikovCode/Octopus-AI/stargazers"><img src="https://img.shields.io/github/stars/SkvorikovCode/Octopus-AI?style=flat-square&color=ff3d2e&labelColor=1a1b27&label=Octopus%20AI%20stars&logo=github" alt="Octopus AI stars"></a>
   <a href="https://t.me/JustFW_info"><img src="https://img.shields.io/badge/Telegram-@JustFW__info-26A5E4?style=flat-square&labelColor=1a1b27&logo=telegram&logoColor=white" alt="Telegram channel"></a>

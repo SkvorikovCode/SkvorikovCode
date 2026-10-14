@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SkvorikovCode&label=%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F&color=7aa2f7&style=flat-square" alt="Просмотры профиля">
+  <img src="https://hits.sh/github.com/SkvorikovCode.svg?style=flat-square&label=%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F&color=7aa2f7&labelColor=1a1b27" alt="Просмотры профиля">
   <a href="https://github.com/SkvorikovCode?tab=followers"><img src="https://img.shields.io/github/followers/SkvorikovCode?style=flat-square&color=bb9af7&labelColor=1a1b27&logo=github&label=%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8" alt="Подписчики"></a>
   <a href="https://github.com/SkvorikovCode/Octopus-AI/stargazers"><img src="https://img.shields.io/github/stars/SkvorikovCode/Octopus-AI?style=flat-square&color=ff3d2e&labelColor=1a1b27&label=%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D1%8B%20Octopus%20AI&logo=github" alt="Звёзды Octopus AI"></a>
   <a href="https://t.me/JustFW_info"><img src="https://img.shields.io/badge/Telegram-@JustFW__info-26A5E4?style=flat-square&labelColor=1a1b27&logo=telegram&logoColor=white" alt="Telegram-канал"></a>
